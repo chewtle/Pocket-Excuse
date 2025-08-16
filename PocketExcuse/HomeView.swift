@@ -960,7 +960,7 @@ private extension HomeView {
 
                 // Name + bio (left-aligned and tidy)
                 VStack(alignment: .leading, spacing: 12) {
-                    Text("Marios Neofytou")
+                    Text("Chewtle")
                         .font(.title3.weight(.semibold))
                         .foregroundColor(.primary)
 
@@ -968,7 +968,7 @@ private extension HomeView {
                         .font(.subheadline.weight(.semibold))
                         .foregroundColor(.secondary)
 
-                    Text("I’m Marios Neofytou, 18 years old. I enjoy programming, shipping small iOS apps, and learning new things as I go.")
+                    Text("I’m Chewtle, 18 years old. I enjoy programming, shipping small iOS apps, and learning new things as I go.")
                         .foregroundColor(.primary)
                         .fixedSize(horizontal: false, vertical: true)
                 }
