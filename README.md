@@ -76,11 +76,11 @@ Or use the button:
 ## 📸 Screenshots  
 
 ### Light Mode  
-<img src="homeScreenLightMode.jpeg"/>  
+<img src="homeScreenLightMode.png"/>  
 
 ### Dark Mode  
-<img src="homeScreenDarkMode.jpeg"/>  
+<img src="homeScreenDarkMode.png"/>  
 
 ### Excuse Popup  
-<img src="excuseGeneratorLightMode.jpeg"/>  
-<img src="excuseGeneratorDarkMode.jpeg"/>  
+<img src="excuseGeneratorLightMode.png"/>  
+<img src="excuseGeneratorDarkMode.png"/>  
